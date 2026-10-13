@@ -7,7 +7,7 @@ X-WR-CALNAME:九州 補助金・支援情報ダイジェスト 締切
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:a0WJ200000CDeYyMAL@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261016T073000Z
 DTEND:20261016T080000Z
 SUMMARY:【締切】小規模事業者持続化補助金<一般型 災害
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDeToMAL@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261016T073000Z
 DTEND:20261016T080000Z
 SUMMARY:【締切】小規模事業者持続化補助金<一般型 災害
@@ -49,7 +49,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDe6aMAD@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261023T142900Z
 DTEND:20261023T145900Z
 SUMMARY:【締切】【宮崎】令和8年度中小企業最低賃金引
@@ -69,7 +69,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDe6bMAD@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261024T142900Z
 DTEND:20261024T145900Z
 SUMMARY:【締切】【鹿児島】令和8年度中小企業最低賃金
@@ -89,7 +89,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDe6ZMAT@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261031T142900Z
 DTEND:20261031T145900Z
 SUMMARY:【締切】【大分】令和8年度中小企業最低賃金引
@@ -109,7 +109,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDe6XMAT@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261101T142900Z
 DTEND:20261101T145900Z
 SUMMARY:【締切】【長崎】令和8年度中小企業最低賃金引
@@ -129,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDZXbMAP@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261113T073000Z
 DTEND:20261113T080000Z
 SUMMARY:【締切】【鹿児島県】令和8年度_中小企業等海外
@@ -149,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDe6WMAT@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261114T142900Z
 DTEND:20261114T145900Z
 SUMMARY:【締切】【佐賀】令和8年度中小企業最低賃金引
@@ -169,7 +169,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDYfxMAH@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261130T073000Z
 DTEND:20261130T080000Z
 SUMMARY:【締切】古賀市中小企業等向け太陽光発電設備導
@@ -189,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDe6YMAT@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261130T142900Z
 DTEND:20261130T145900Z
 SUMMARY:【締切】【熊本】令和8年度中小企業最低賃金引
@@ -209,7 +209,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDddZMAT@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261225T013000Z
 DTEND:20261225T020000Z
 SUMMARY:【締切】【福岡県宗像市】令和8年度 食のまち宗
@@ -229,7 +229,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDddaMAD@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261225T013000Z
 DTEND:20261225T020000Z
 SUMMARY:【締切】【福岡県宗像市】令和8年度 宗像市創業
@@ -249,7 +249,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDddbMAD@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261225T013000Z
 DTEND:20261225T020000Z
 SUMMARY:【締切】【福岡県宗像市】令和8年度 宗像市がん
@@ -269,7 +269,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDbPLMA1@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261228T073000Z
 DTEND:20261228T080000Z
 SUMMARY:【締切】【久留米市】中小企業先端設備等導入支
@@ -289,7 +289,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDYTvMAP@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261228T074500Z
 DTEND:20261228T081500Z
 SUMMARY:【締切】【久留米市】久留米市キッチンカー導入
@@ -309,7 +309,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDbpCMAT@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261228T074500Z
 DTEND:20261228T081500Z
 SUMMARY:【締切】【久留米市】久留米市小規模事業者デジ
@@ -329,7 +329,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDYZ7MAP@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261228T143000Z
 DTEND:20261228T150000Z
 SUMMARY:【締切】【久留米市】中小企業止水板等設置事業
@@ -349,7 +349,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDXk9MAH@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20270228T074500Z
 DTEND:20270228T081500Z
 SUMMARY:【締切】【飯塚市】令和8年度外国人材受入環境
@@ -369,7 +369,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDXk8MAH@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20270331T002500Z
 DTEND:20270331T005500Z
 SUMMARY:【締切】【飯塚市】令和8年度海外展開支援事業
@@ -389,7 +389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDYfwMAH@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20270331T073000Z
 DTEND:20270331T080000Z
 SUMMARY:【締切】古賀市温室効果ガス排出量可視化システ
@@ -409,7 +409,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDeTAMA1@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20270331T073000Z
 DTEND:20270331T080000Z
 SUMMARY:【締切】小郡市企業立地優遇制度
@@ -427,7 +427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDYCnMAP@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20270331T142900Z
 DTEND:20270331T145900Z
 SUMMARY:【締切】【福岡市】グリーンビル促進事業(都心
@@ -447,7 +447,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WfQ000003BpWvUAK@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261015T023000Z
 DTEND:20261015T030000Z
 SUMMARY:【締切】【令和8年度】省CO2型システムへの改修
@@ -467,7 +467,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WfQ000003BrAXUA0@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261015T023000Z
 DTEND:20261015T030000Z
 SUMMARY:【締切】【令和8年度】DX型CO2削減対策実行支援事
@@ -486,8 +486,28 @@ DESCRIPTION:締切3日前：【令和8年度】DX型CO2削減対策実行
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:a0WJ200000CDKZFMA5@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261016T023000Z
+DTEND:20261016T030000Z
+SUMMARY:【締切】令和8年度_グリーンスローモビリティ等
+ 導入促進事業(二次公募)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5
+DESCRIPTION:受付締切（日本時間）：2026-10-16 12:00\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：令和８年度_グリーンスローモビリ
+ ティ等導入促進事業（二次公募）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:a0WJ200000CDeZuMAL@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261016T023000Z
 DTEND:20261016T030000Z
 SUMMARY:【締切】令和8年度データセンターのゼロエミッ
@@ -507,28 +527,8 @@ DESCRIPTION:締切3日前：令和８年度データセンターのゼロ
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WJ200000CDKZFMA5@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261016T023000Z
-DTEND:20261016T030000Z
-SUMMARY:【締切】令和8年度_グリーンスローモビリティ等
- 導入促進事業(二次公募)
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5
-DESCRIPTION:受付締切（日本時間）：2026-10-16 12:00\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：令和８年度_グリーンスローモビリ
- ティ等導入促進事業（二次公募）
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:a0WJ200000CDeTZMA1@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261016T023000Z
 DTEND:20261016T030000Z
 SUMMARY:【締切】「ポスト5G情報通信システム基盤強化研
@@ -550,7 +550,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDeY0MAL@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261019T023000Z
 DTEND:20261019T030000Z
 SUMMARY:【締切】「水素社会モデル構築高度化技術開発・
@@ -569,216 +569,53 @@ DESCRIPTION:締切3日前：「水素社会モデル構築高度化技術
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WJ200000CDeC1MAL@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20270120T023000Z
-DTEND:20270120T030000Z
-SUMMARY:【締切】2026年度「ディープテック・スタートア
- ップ支援基金/国際共同研究開発」の公募
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeC1MAL
-DESCRIPTION:受付締切（日本時間）：2027-01-20 12:00\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeC1MAL\n出
+UID:a0WJ200000CDeOLMA1@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261022T023000Z
+DTEND:20261022T030000Z
+SUMMARY:【締切】「地盤・海象・気象等の調査・観測技術
+ の高度化・高効率化に関する研究開発」 の公募
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeOLMA1
+DESCRIPTION:受付締切（日本時間）：2026-10-22 12:00\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeOLMA1\n出
  典：J グランツ。AKS COMPANYが整理したもので、国・自治
  体が保証するものではありません。申請前に必ず公式
  ページと公募要領をご確認ください。
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
-DESCRIPTION:締切3日前：2026年度「ディープテック・スター
- トアップ支援基金／国際共同研究開発」の公募
+DESCRIPTION:締切3日前：「地盤・海象・気象等の調査・観
+ 測技術の高度化・高効率化に関する研究開発」　の公
+ 募
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a0WJ200000CDc0YMAT@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261028T142900Z
-DTEND:20261028T145900Z
-SUMMARY:【締切】令和8年度都市ガス分野の災害対応・レ
- ジリエンス強化に係る支援事業費補助金
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT
-DESCRIPTION:受付締切（日本時間）：2026-10-28 23:59\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT\n出
+UID:a0WJ200000CDYaFMAX@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261022T073000Z
+DTEND:20261022T080000Z
+SUMMARY:【締切】【令和7年度補正予算・令和8年度】二酸
+ 化炭素排出抑制対策事業費等補助金(業務用建築物スト
+ ックの省CO2改修調査支援事業(令和7年度補正予算二次
+ 公募・令和8年度一次公募))
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYaFMAX
+DESCRIPTION:受付締切（日本時間）：2026-10-22 17:00\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYaFMAX\n出
  典：J グランツ。AKS COMPANYが整理したもので、国・自治
  体が保証するものではありません。申請前に必ず公式
  ページと公募要領をご確認ください。
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
-DESCRIPTION:締切3日前：令和８年度都市ガス分野の災害対
- 応・レジリエンス強化に係る支援事業費補助金
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003cAFxUAM@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261223T023000Z
-DTEND:20261223T030000Z
-SUMMARY:【締切】交通システムの省CO2 化に向けた設備整
- 備事業(鉄道事業等におけるネットワーク型低炭素化促
- 進事業)(三次公募)
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM
-DESCRIPTION:受付締切（日本時間）：2026-12-23 12:00\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：交通システムの省CO2 化に向けた設
- 備整備事業（鉄道事業等におけるネットワーク型低炭
- 素化促進事業）（三次公募）
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003N1RZUA0@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261106T080000Z
-DTEND:20261106T083000Z
-SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
- ・M&A補助金(16次公募)_専門家活用枠(小規模売り手支援
- 類型)
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0
-DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
- 承継・M&A補助金(16次公募)_専門家活用枠(小規模売り手
- 支援類型)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003N1RaUAK@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261106T080000Z
-DTEND:20261106T083000Z
-SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
- ・M&A補助金(16次公募)_事業承継促進枠
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK
-DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
- 承継・M&A補助金(16次公募)_事業承継促進枠
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003N1RWUA0@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261106T080000Z
-DTEND:20261106T083000Z
-SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
- ・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100
- 億企業特例)
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0
-DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
- 承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類
- 型-100億企業特例)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003N1RXUA0@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261106T080000Z
-DTEND:20261106T083000Z
-SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
- ・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0
-DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
- 承継・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003N1RYUA0@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261106T080000Z
-DTEND:20261106T083000Z
-SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
- ・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0
-DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
- 承継・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003N1RVUA0@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261106T080000Z
-DTEND:20261106T083000Z
-SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
- ・M&A補助金(16次公募)_専門家活用枠(買い手支援類型/売
- り手支援類型)
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0
-DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
- 承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類
- 型／売り手支援類型)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a0WfQ000003N1RbUAK@kyushu-hojokin
-DTSTAMP:20261013T145848Z
-DTSTART:20261106T080000Z
-DTEND:20261106T083000Z
-SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
- ・M&A補助金(16次公募)_廃業・再チャレンジ枠
-URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK
-DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
- ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK\n出
- 典：J グランツ。AKS COMPANYが整理したもので、国・自治
- 体が保証するものではありません。申請前に必ず公式
- ページと公募要領をご確認ください。
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P3D
-DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
- 承継・M&A補助金(16次公募)_廃業・再チャレンジ枠
+DESCRIPTION:締切3日前：【令和７年度補正予算・令和８年
+ 度】二酸化炭素排出抑制対策事業費等補助金（業務用
+ 建築物ストックの省CO2改修調査支援事業（令和７年度
+ 補正予算二次公募・令和８年度一次公募））
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WfQ000003GpG9UAK@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261023T023000Z
 DTEND:20261023T030000Z
 SUMMARY:【締切】令和7年度補正グローバルサウス未来志
@@ -800,8 +637,275 @@ DESCRIPTION:締切3日前：令和７年度補正グローバルサウス
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:a0WJ200000CDdl2MAD@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261026T023000Z
+DTEND:20261026T030000Z
+SUMMARY:【締切】「脱炭素化・エネルギー転換に資する我
+ が国技術の国際実証事業」の2026年度第2回公募
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD
+DESCRIPTION:受付締切（日本時間）：2026-10-26 12:00\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：「脱炭素化・エネルギー転換に資
+ する我が国技術の国際実証事業」の2026年度第2回公募
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDXscMAH@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261029T073000Z
+DTEND:20261029T080000Z
+SUMMARY:【締切】IP360 海外展開支援(ローカライズ支援)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXscMAH
+DESCRIPTION:受付締切（日本時間）：2026-10-29 17:00\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXscMAH\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：IP360 海外展開支援（ローカライズ
+ 支援）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003iZLKUA2@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261028T023000Z
+DTEND:20261028T030000Z
+SUMMARY:【締切】令和8年度酒類業振興支援事業費補助金(
+ 第6期)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iZLKUA2
+DESCRIPTION:受付締切（日本時間）：2026-10-28 12:00\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iZLKUA2\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：令和８年度酒類業振興支援事業費
+ 補助金（第６期）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDeC1MAL@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20270120T023000Z
+DTEND:20270120T030000Z
+SUMMARY:【締切】2026年度「ディープテック・スタートア
+ ップ支援基金/国際共同研究開発」の公募
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeC1MAL
+DESCRIPTION:受付締切（日本時間）：2027-01-20 12:00\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeC1MAL\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：2026年度「ディープテック・スター
+ トアップ支援基金／国際共同研究開発」の公募
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WJ200000CDc0YMAT@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261028T142900Z
+DTEND:20261028T145900Z
+SUMMARY:【締切】令和8年度都市ガス分野の災害対応・レ
+ ジリエンス強化に係る支援事業費補助金
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT
+DESCRIPTION:受付締切（日本時間）：2026-10-28 23:59\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：令和８年度都市ガス分野の災害対
+ 応・レジリエンス強化に係る支援事業費補助金
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003cAFxUAM@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261223T023000Z
+DTEND:20261223T030000Z
+SUMMARY:【締切】交通システムの省CO2 化に向けた設備整
+ 備事業(鉄道事業等におけるネットワーク型低炭素化促
+ 進事業)(三次公募)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM
+DESCRIPTION:受付締切（日本時間）：2026-12-23 12:00\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：交通システムの省CO2 化に向けた設
+ 備整備事業（鉄道事業等におけるネットワーク型低炭
+ 素化促進事業）（三次公募）
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003N1RZUA0@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261106T080000Z
+DTEND:20261106T083000Z
+SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
+ ・M&A補助金(16次公募)_専門家活用枠(小規模売り手支援
+ 類型)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0
+DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
+ 承継・M&A補助金(16次公募)_専門家活用枠(小規模売り手
+ 支援類型)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003N1RaUAK@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261106T080000Z
+DTEND:20261106T083000Z
+SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
+ ・M&A補助金(16次公募)_事業承継促進枠
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK
+DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
+ 承継・M&A補助金(16次公募)_事業承継促進枠
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003N1RWUA0@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261106T080000Z
+DTEND:20261106T083000Z
+SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
+ ・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100
+ 億企業特例)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0
+DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
+ 承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類
+ 型-100億企業特例)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003N1RXUA0@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261106T080000Z
+DTEND:20261106T083000Z
+SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
+ ・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0
+DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
+ 承継・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003N1RYUA0@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261106T080000Z
+DTEND:20261106T083000Z
+SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
+ ・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0
+DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
+ 承継・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003N1RVUA0@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261106T080000Z
+DTEND:20261106T083000Z
+SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
+ ・M&A補助金(16次公募)_専門家活用枠(買い手支援類型/売
+ り手支援類型)
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0
+DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
+ 承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類
+ 型／売り手支援類型)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0WfQ000003N1RbUAK@kyushu-hojokin
+DTSTAMP:20261013T150624Z
+DTSTART:20261106T080000Z
+DTEND:20261106T083000Z
+SUMMARY:【締切】中小企業生産性革命推進事業_事業承継
+ ・M&A補助金(16次公募)_廃業・再チャレンジ枠
+URL:https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK
+DESCRIPTION:受付締切（日本時間）：2026-11-06 17:30\n公式ペ
+ ージ：https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK\n出
+ 典：J グランツ。AKS COMPANYが整理したもので、国・自治
+ 体が保証するものではありません。申請前に必ず公式
+ ページと公募要領をご確認ください。
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:締切3日前：中小企業生産性革命推進事業_事業
+ 承継・M&A補助金(16次公募)_廃業・再チャレンジ枠
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:a0WfQ000003N8hVUAS@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261106T053000Z
 DTEND:20261106T060000Z
 SUMMARY:【締切】令和8年度 脱炭素成長型経済構造移行推
@@ -823,7 +927,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WfQ000003JPtqUAG@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261106T053000Z
 DTEND:20261106T060000Z
 SUMMARY:【締切】令和8年度 脱炭素成長型経済構造移行推
@@ -845,7 +949,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WfQ000003aZqLUAU@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20261130T142900Z
 DTEND:20261130T145900Z
 SUMMARY:【締切】成田空港の次代を担う若者の奨学金返還
@@ -865,7 +969,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a0WJ200000CDeRiMAL@kyushu-hojokin
-DTSTAMP:20261013T145848Z
+DTSTAMP:20261013T150624Z
 DTSTART:20270131T142900Z
 DTEND:20270131T145900Z
 SUMMARY:【締切】令和8年度_受動喫煙防止対策助成金
